@@ -11,3 +11,6 @@ A web-based application for lecturers to track student attendance digitally. Thi
 - PHP
 - MySQL
 - HTML/CSS/JavaScript (Frontend)
+
+username: izu,ani,okoronkwo,obayi,aminat,bakpo(any can serve)
+password: 123
