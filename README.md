@@ -1,5 +1,5 @@
 # Student Attendance Management System
-A web-based application for lecturers to track student attendance digitally. This system allows lecturers to monitor attendance efficiently and generate attendance reports.
+A web-based application for lecturers to track student attendance digitally. This system allows lecturers to monitor attendance efficiently and generate attendance reports in the department of computer science, University of Nigeria, Nsukka.
 
 ## Features
 - Register students and courses.
