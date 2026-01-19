@@ -8,8 +8,8 @@ A web-based application for lecturers to track student attendance digitally. Thi
 - User-friendly interface.
 
 ## Tech Stack
-- PHP
-- MySQL
+- PHP (Backend)
+- MySQL (Database)
 - HTML/CSS/JavaScript (Frontend)
 
 username: izu,ani,okoronkwo,obayi,aminat,bakpo(any can serve)
